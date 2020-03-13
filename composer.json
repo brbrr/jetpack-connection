@@ -1,5 +1,5 @@
 {
-	"name": "automattic/jetpack-connection",
+	"name": "brbrr/jetpack-connection",
 	"description": "Everything needed to connect to the Jetpack infrastructure",
 	"type": "library",
 	"license": "GPL-2.0-or-later",
